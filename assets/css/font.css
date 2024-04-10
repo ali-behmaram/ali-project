@@ -1,0 +1,26 @@
+@font-face {
+    font-family: vazir;
+    src: url(/assets/vazir-font-v16.1.0/Vazir.woff) format(woff);
+    src: url(/assets/vazir-font-v16.1.0/Vazir.woff2) format(woff2);
+    
+}
+
+@font-face {
+    font-family: b-mitra;
+    src: url(/assets/font/b-mitra/B\ Mitra_0.ttf);
+}
+
+@font-face {
+    font-family: b-nazanin;
+    src: url(/assets/font/b-nazanin/B-NAZANIN.TTF);
+}
+
+@font-face {
+    font-family: irsans;
+    src: url(/assets/font/ir-sans/irsans.ttf);
+}
+
+@font-face {
+    font-family: irsansb;
+    src: url(/assets/font/ir-sans/irsansb.ttf);
+}
